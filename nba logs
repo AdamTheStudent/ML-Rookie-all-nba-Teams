@@ -1,0 +1,15 @@
+nba_api
+^data
+
+https://www.basketball-reference.com/awards/all_league.html
+^all-time-nba-teams
+
+https://www.basketball-reference.com/awards/all_rookie.html
+^all-rookie-voting
+
+
+https://www.basketball-reference.com/awards/awards_2023.html
+^ data
+
+https://www.kaggle.com/datasets/sumitrodatta/nba-endofseason-voting-ballots-20142020?resource=download
+^votings
